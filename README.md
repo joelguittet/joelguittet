@@ -57,7 +57,7 @@ I'm an active contributor to the [Zephyr RTOS](https://zephyrproject.org) ecosys
 ## 🌍 Let's Connect
 
 - 🔗 [LinkedIn](https://www.linkedin.com/in/joel-guittet)
-- 📫 joel.guittet [at] gmail.com
+- 📫 joelguittet [at] gmail.com
 
 
 <picture>
