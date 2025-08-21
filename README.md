@@ -36,7 +36,7 @@ I'm an active contributor to the [Zephyr RTOS](https://zephyrproject.org) ecosys
 
 | Repository | Description |
 |------------|-------------|
-| [**mender-mcu-client**](https://github.com/joelguittet/mender-mcu-client) | A Mender client running on MCU devices, with ESP-IDF and Zephyr examples. |
+| [**mender-mcu-client**](https://github.com/joelguittet/mender-mcu-client) | A Mender client running on MCU devices, with ESP-IDF and Zephyr RTOS examples. |
 | [**c-cote**](https://github.com/joelguittet/c-cote) | Zero-configuration microservices library in C compatible with [cote](https://github.com/dashersw/cote). |
 | [**meta-chip**](https://github.com/joelguittet/meta-chip) | Yocto meta layers to support NextThingCo CHIP and CHIPpro. |
 
@@ -47,8 +47,8 @@ I'm an active contributor to the [Zephyr RTOS](https://zephyrproject.org) ecosys
 ## 🚀 What I'm Working On
 
 - 👀 An **Board Developement SDK** to speed up developement using ThreadX, FreeRTOS, or bare metal.
-- 🚆 A digital central station for **railroad hobbyists** using Zephyr.
-- A new **Mender** example running on MCU using a **Nordic** device, and a new Mender example running **ThreadX**.
+- 🚆 A digital central station for **railroad hobbyists** using Zephyr RTOS.
+- A new **Mender** example running **ThreadX**.
 
 
 ---
