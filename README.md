@@ -10,6 +10,7 @@ I'm an active contributor to the [Zephyr RTOS](https://zephyrproject.org) ecosys
   </div>
 </picture>
 
+🗣️ I will talk at [Embedded World 2026: Nuremberg, Germany - March 11, 2026](https://events.componeers.net/embedded-world-conference) about vulnerability management in the context of RTOS and particularly using Zephyr.
 🗣️ I was talking at [Zephyr Project meetup: Grenoble, France – March 26, 2025](https://www.zephyrproject.org/recap-blog-zephyr-project-meetup-grenoble-france-march-26-2025) examining security feature provided by Zephyr RTOS. Watch the session [here](https://www.youtube.com/watch?v=CdSkPEUAyR8).
 
 
